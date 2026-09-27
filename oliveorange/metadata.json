@@ -1,0 +1,6 @@
+{
+  "name": "OliveOrange Stock Management",
+  "description": "Enterprise raw material stock management, inventory tracking, purchasing, kitchen requisitions, BOM recipes, and audit system with Olive & Orange design theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
